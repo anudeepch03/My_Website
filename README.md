@@ -1,4 +1,4 @@
-# hardik01shah.github.io
+# einnewfeyhaw.github.io
 
 My personal webpage. You can check it out [here](https://einnewfeyhaw.github.io/)!
 <br>
